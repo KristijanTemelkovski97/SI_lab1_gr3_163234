@@ -3,3 +3,5 @@
 222, pasulj, 42
 333, ogan, 666
 213, kafe, 7
+323, maus, 800
+331, papagal, 320
